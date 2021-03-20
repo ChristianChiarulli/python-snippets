@@ -1,0 +1,21 @@
+{
+  "name": "PythonSnippets",
+  "description": "Code snippets for Python",
+  "version": "1.0.0",
+  "displayName": "Python code snippets",
+  "publisher": "Chris",
+  "engines": {
+    "vscode": "0.10.x"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "python",
+        "path": "./snippets/snippets.json"
+      }
+    ]
+  }
+}
